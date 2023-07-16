@@ -7,13 +7,13 @@ Air bubbles are introduced into the slurry, and as they rise to the surface, the
 # Importance of Iron Concentration Monitoring: 
 Monitoring the concentration of iron particles in the froth is crucial for several reasons:
 
-a. Process Control: 
+(1) Process Control: 
 By monitoring iron concentration in real-time, operators can adjust the process parameters, such as reagent dosages, froth depth, and air flow rates, to optimize the flotation process. Maintaining the optimal iron concentration in the froth ensures maximum recovery of valuable iron minerals.
 
-b. Process Efficiency: 
+(2) Process Efficiency: 
 Fluctuations in iron concentration may indicate variations in the ore feed quality, changes in mineralogy, or issues with equipment. Identifying and addressing such variations promptly can enhance process efficiency and prevent potential losses.
 
-c. Quality Assurance: 
+(3) Quality Assurance: 
 The iron concentrate produced through froth flotation is a valuable commodity. Accurate monitoring of iron concentration helps ensure that the final product meets quality specifications and market requirements.
 
 # In froth flotation, the objective is typically to recover specific minerals or metals, while leaving unwanted materials behind. 
